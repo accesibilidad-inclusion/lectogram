@@ -1,0 +1,2 @@
+# lectogram
+Lector de pictogramas
