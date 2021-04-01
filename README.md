@@ -4,7 +4,7 @@
 
 Lectogram consiste en un apoyo tecnológico, que facilita la comprensión de los espacios que lo rodean, identificando lugares específicos y objetos con los que pueden realizar actividades de la vida cotidiana, mediante apoyos visuales y auditivos. El apoyo visual consiste en un set de pictogramas diseñados específicamente para personas con discapacidad intelectual, enfocado en las tareas del hogar. El apoyo auditivo funciona a través de un objeto portable que al interactuar con el pictograma entrega un mensaje que ayuda a la realización de distintas actividades relacionadas con los objetos presentes. El objeto lector de pictogramas se piensa como un objeto portable y manipulable para el usuario ya que este se tiene que acercar y tener contacto con él pictogramas para su activación y entregar el apoyo auditivo instructivo de como hacer las actividad de forma general.
 
-![Vista isometrica](img/lectogram-2.jpg)
+![Vista isometrica](/img/lectogram-2.jpg)
 
 ![Vista isometrica](img/lectogram-1.jpg)
 
